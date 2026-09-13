@@ -795,6 +795,12 @@
     ![](https://img.shields.io/github/stars/memfreeme/memfree.svg)
   * 简介：MemFree 是一个开源的 Hybrid AI 搜索引擎，可以同时对您的个人知识库（如书签、笔记、文档等）和互联网进行搜索, 为你提供最佳答案。MemFree 支持自托管的极速无服务器向量数据库，支持自托管的极速Local Embedding and Rerank Service，支持一键部署。
 
+* Clips Kitty：
+
+  * 地址：https://github.com/ColinGPT9/clips-studio
+    ![](https://img.shields.io/github/stars/ColinGPT9/clips-studio.svg)
+  * 简介：在 Windows 本地运行的长视频切片工具，把直播和长视频剪成带字幕的竖屏短视频。片段评分与标题默认使用 Gemma，翻译可通过 Ollama 使用 Qwen 等中文模型。
+
 ### 3. <a name='数据集'></a>数据集
 
 #### 预训练数据集
