@@ -711,6 +711,13 @@
 
 #### 2.3 其他应用
 
+* OrcaReplay：
+
+  * 地址：https://github.com/Continuum-AI-Corp/OrcaReplay
+    ![](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay.svg)
+  * 简介：一个 AI Agent 调用链路的录制与离线重放工具。它以 HTTP 代理 + shim 的形式夹在 Agent 框架与模型 provider 之间，把一次真实运行的 prompt、工具调用、响应和原始字节原样录成本地 trace，之后可在完全不联网、不联系 provider 的情况下重放这一次运行，用于复现偶发失败的 Agent 任务、diff 两次运行的差异，或把同一份录像换到另一个模型上重跑。自带 MCP server（list/show/checkpoints/graph/replay/compare）读取本地 trace 库。Apache-2.0，npm 包 `orcareplay`，已实测支持 LangGraph、CrewAI、AutoGen、CAMEL、DSPy、Haystack、smolagents 等框架。
+
+
 * Lumen：
 
   * 地址：https://github.com/omxyz/lumen
