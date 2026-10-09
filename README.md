@@ -301,6 +301,11 @@
     ![](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-01.svg)
   * 简介：MiniMax-Text-01 是由 MiniMax 推出的大规模语言模型，采用混合注意力机制（Lightning Attention + Softmax Attention）与 MoE 架构，总参数量 4560 亿（456B），每个 token 激活参数量 459 亿（45.9B）。该模型在 1M tokens 上下文长度上进行训练，推理时最大可处理 4M tokens（约 800 万汉字），支持超长文本理解和生成。在 MMLU、C-SimpleQA、IFEval、Arena-Hard 等多项学术基准上表现出与 GPT-4o、DeepSeek-V3 等顶级模型相当的性能。代码采用 MIT 许可证开源，模型权重可商用。
 
+* Phocinae-Largha-150M-v1
+  * 地址：https://github.com/Phocinae/Phocinae-Largha-150M-v1
+    ![](https://img.shields.io/github/stars/Phocinae/Phocinae-Largha-150M-v1.svg)
+  * 简介：Phocinae 开源的 144.3M 参数中英双语类型化决策模型（System One，Apache-2.0）：一次前向对文本状态给出 Choice/Score/Noul 三类问题的校准概率，不依赖生成式 LLM，显存占用小、可在本地私有部署。typed-decisions 实测 en 0.906 / zh 0.848（机译用例）；RTX 5090 fp16 实测 p50 21.0 ms，CPU 每 case 约 1.64 s；τ=0.6 置信门下 55.0% 的决策本地直接完成（0 输出 token），适用于 agent 路由、审批判定、内容合规等场景。
+
 
 
 #### 1.2 多模态LLM模型
