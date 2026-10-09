@@ -1312,6 +1312,11 @@
     ![](https://img.shields.io/github/stars/nowork-studio/awesome-ai-startups.svg)
   * 简介：独立开发者创建的 AI 创业产品精选列表，涵盖自筹资金、种子轮前和天使轮融资的产品。
 
+* 中国 FDE 名录：
+  
+  * 地址：https://github.com/shike/fde.dropleap.cn （在线版：https://fde.dropleap.cn ）
+  * 简介：收录中国 FDE（前置部署工程师）生态的开源名录：5,600+ 从业者、529 家 FDE 服务公司、346 篇实战案例与 107 条政策文件；提供 llms.txt 与全站 .md 视图，对 AI 与 Agent 友好。
+
 ## Star History
 
 <a href="https://star-history.com/#AiHubCN/Awesome-Chinese-LLM&Date">
