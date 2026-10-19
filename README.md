@@ -1311,6 +1311,11 @@
   * 地址：https://github.com/nowork-studio/awesome-ai-startups
     ![](https://img.shields.io/github/stars/nowork-studio/awesome-ai-startups.svg)
   * 简介：独立开发者创建的 AI 创业产品精选列表，涵盖自筹资金、种子轮前和天使轮融资的产品。
+* Awesome AI Agents：
+  
+  * 地址：https://github.com/ianwieds/awesome-ai-agents
+    ![](https://img.shields.io/github/stars/ianwieds/awesome-ai-agents.svg)
+  * 简介：AI 智能体精选列表，涵盖智能体框架、编程智能体、浏览器智能体、工具、平台与研究。
 
 ## Star History
 
