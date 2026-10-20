@@ -1327,7 +1327,7 @@
 
 ⭐ **OpenClaw AI 智能体实时监控平台**
 
-![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
+![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/master/Openclaw%20Monitor.jpg)
 
 ### 特性
 - **实时监控**：WebSocket 连接，实时展示 Gateway 和会话状态
