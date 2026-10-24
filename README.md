@@ -588,6 +588,12 @@
   * 地址：https://arxiv.org/abs/2504.13125
   * 简介：对Qwen2.5和DeepSeek-R1基础模型进行金融领域三阶段微调（SFT任务适配→DPO抑制过长输出→LLM自合成CoT数据迭代RL），在Open FinLLM Leaderboard上取得优异成绩。使用LoRA (r=128, α=256) + DeepSpeed Stage 2训练，NER F1从0.14提升至0.72，DPO将overlength ratio从54.7%降至1.7%。
 
+* tipdm-b-financial-qa：上市公司财报「智能问数」助手
+
+  * 地址：https://github.com/liu380824/tipdm-b-financial-qa
+    ![](https://img.shields.io/github/stars/liu380824/tipdm-b-financial-qa.svg)
+  * 简介：面向 A 股上市公司财报的中文自然语言问数系统。以「正则优先、LLM 兜底」的混合抽取引擎把非结构化财报 PDF 转为结构化数据库，并把每个字段溯源到源 PDF 页码；再经 NL2SQL 完成问答，支持多轮对话、追问改写、ECharts 自动图表与归因分析。另含研报 RAG 知识库（BM25 + 向量 + RRF + 重排）、多意图规划与推理链路透出，并给出对主流大模型的七维度横向评测与消融实验。
+
 ##### 教育
 
 * 桃李（Taoli）：
