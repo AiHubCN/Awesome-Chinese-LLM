@@ -203,6 +203,9 @@
 * Firefly：
   * 地址：https://github.com/yangjianxin1/Firefly
     ![](https://img.shields.io/github/stars/yangjianxin1/Firefly.svg)
+- [PromptImage](https://promptimage.cloud)：Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design)：Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev)：Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
   * 简介：Firefly(流萤) 是一个开源的中文大语言模型项目，开源包括数据、微调代码、多个基于Bloom、baichuan等微调好的模型等；支持全量参数指令微调、QLoRA低成本高效指令微调、LoRA指令微调；支持绝大部分主流的开源大模型，如百川baichuan、Ziya、Bloom、LLaMA等。持lora与base model进行权重合并，推理更便捷。
 * ChatYuan
   * 地址：https://github.com/clue-ai/ChatYuan
