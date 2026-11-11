@@ -795,6 +795,12 @@
     ![](https://img.shields.io/github/stars/memfreeme/memfree.svg)
   * 简介：MemFree 是一个开源的 Hybrid AI 搜索引擎，可以同时对您的个人知识库（如书签、笔记、文档等）和互联网进行搜索, 为你提供最佳答案。MemFree 支持自托管的极速无服务器向量数据库，支持自托管的极速Local Embedding and Rerank Service，支持一键部署。
 
+* AIYIchat（爱易聊）：
+
+  * 地址：https://github.com/BugWhispererChen/AIYIchat
+    ![](https://img.shields.io/github/stars/BugWhispererChen/AIYIchat.svg)
+  * 简介：自托管的 AI 聊天服务运营平台，支持 QQ、微信与网页多渠道多 Bot 并发，内置账号与配额管理、注册审核、内容安全审计、离线评测和可观测；用户侧提供五级长期记忆、点状事实时效剔除、反思归纳、语音、图片与表情包，支持 Docker Compose 及 Windows/Linux 部署包。
+
 ### 3. <a name='数据集'></a>数据集
 
 #### 预训练数据集
