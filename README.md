@@ -711,6 +711,11 @@
 
 #### 2.3 其他应用
 
+* No Stairs Please：
+
+  * 地址：https://nostairsplease.com/
+  * 简介：面向巡演音乐人的无障碍现场音乐场地目录与免费 MCP 服务器（https://nostairsplease.com/mcp）。
+
 * Lumen：
 
   * 地址：https://github.com/omxyz/lumen
