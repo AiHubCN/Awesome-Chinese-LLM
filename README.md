@@ -714,7 +714,7 @@
 * HumanPen：
 
   * 地址：https://humanpen.net/ （API 文档：https://api.humanpen.net/v1/docs.md）
-  * 简介：面向学术与科研文档的商业化积分制 SaaS 平台（注册即送 100 积分）。支持文档级润色降 AI 率（DOCX/PPTX/TXT）、12 种语言文档翻译（PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT）、文档精简（DOCX）、12 种格式引文校正（DOCX），以及按实际用量扣积分的科研项目协作（范围界定也计费；数据分析、文献整理与交付）。不承诺绕过检测器，不支持代写（详见 https://humanpen.net/ethics）。
+  * 简介：面向学术与科研文档的商业化积分制 SaaS 平台（注册一次性赠送 100 积分）。支持文档级润色降 AI 率（DOCX/PPTX/TXT）、12 种语言文档翻译（PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT）、文档精简（DOCX）、12 种格式引文校正（DOCX），以及按实际用量扣积分的科研项目协作（范围界定也计费；数据分析、文献整理与交付）。不承诺绕过检测器，不支持代写（详见 https://humanpen.net/ethics）。
 
 * Lumen：
 
