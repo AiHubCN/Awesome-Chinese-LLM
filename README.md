@@ -1158,6 +1158,12 @@
     ![](https://img.shields.io/github/stars/Mooler0410/LLMsPracticalGuide.svg)
   * 简介：该项目提供了关于LLM的一系列指南与资源精选列表，包括LLM发展历程、原理、示例、论文等。
 
+* LLM 机制学习手册：
+
+  * 地址：https://github.com/chenchen8486/LLM_learning
+    ![](https://img.shields.io/github/stars/chenchen8486/LLM_learning.svg)
+  * 简介：可离线浏览的中文 LLM 全链路机制手册，覆盖训练数据、分词、词向量与位置编码、Transformer 架构、预训练、中间训练、后训练、推理部署、应用范式及多模态扩展，结合公式推导、示意图与 minimind 的 PyTorch 实现对照。在线阅读：https://chenchen8486.github.io/LLM_learning/
+
 #### 提示工程教程
 
 * 面向开发者的 LLM 入门课程：
