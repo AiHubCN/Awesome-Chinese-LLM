@@ -795,6 +795,11 @@
     ![](https://img.shields.io/github/stars/memfreeme/memfree.svg)
   * 简介：MemFree 是一个开源的 Hybrid AI 搜索引擎，可以同时对您的个人知识库（如书签、笔记、文档等）和互联网进行搜索, 为你提供最佳答案。MemFree 支持自托管的极速无服务器向量数据库，支持自托管的极速Local Embedding and Rerank Service，支持一键部署。
 
+* ApeRAG
+
+  * 地址：[https://github.com/apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) ![](https://img.shields.io/github/stars/apecloud/ApeRAG.svg)
+  * 简介：开源（Apache-2.0）GraphRAG 与混合检索知识库，融合向量、全文、实体归一化知识图谱、摘要与视觉多模态索引，集成 MinerU 文档解析和内置 MCP 服务，支持 Docker Compose / Kubernetes Helm 部署。它是企业级产品 [ApeMind](https://apemind.ai/) 的开源内核。
+
 ### 3. <a name='数据集'></a>数据集
 
 #### 预训练数据集
