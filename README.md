@@ -711,6 +711,12 @@
 
 #### 2.3 其他应用
 
+* 书童 Pagekin：
+
+  * 地址：https://github.com/EthanYoQ/Pagekin
+    ![](https://img.shields.io/github/stars/EthanYoQ/Pagekin.svg)
+  * 简介：免费开源的 AI 小说写作软件，支持 Windows 和 macOS。用章节蓝图、人物时间线和伏笔追踪辅助长篇和网文写作。可自行配置 DeepSeek、Ollama 等模型。
+
 * Lumen：
 
   * 地址：https://github.com/omxyz/lumen
